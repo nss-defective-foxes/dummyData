@@ -1,0 +1,288 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "AnEvilHerbivore",
+            "email": "kathryn@nutshell.com",
+            "password":
+        },
+        {
+            "id": 2,
+            "username": "CashewRose",
+            "email": "cashew@nutshell.com",
+            "password":
+        },
+        {
+            "id": 3,
+            "username": "MrErin",
+            "email": "erin@nutshell.com",
+            "password":
+        },
+        {
+            "id": 4,
+            "username": "sirwin4",
+            "email": "sean@nutshell.com",
+            "password":
+        },
+        {
+            "id": 5,
+            "username": "wcdoster",
+            "email": "cole@nutshell.com",
+            "password":
+        }
+    ],
+    "messages": [
+        {
+            "id": 1,
+            "userID": 1,
+            "message": "Hi!"
+        },
+        {
+            "id": 2,
+            "userID": 3,
+            "message": "I love Nutshell!"
+        },
+        {
+            "id": 3,
+            "userID": 2,
+            "message": "What exactly is a 'detective fox'?"
+        },
+        {
+            "id": 4,
+            "userID": 4,
+            "message": "It's a fox that solves crimes while smoking a pipe."
+        },
+        {
+            "id": 5,
+            "userID": 5,
+            "message": "Hey, I drew that on my refrigerator!"
+        }
+
+    ],
+    "news": [
+        {
+            "id": 1,
+            "userID": 1,
+            "url": "www.google.com",
+            "title": "Some Stuff Happened Today",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2018-05-04"
+        },
+        {
+            "id": 2,
+            "userID": 1,
+            "url": "www.google.com",
+            "title": "Science: Vampires Are Actually Aliens!",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2018-05-05"
+        },
+        {
+            "id": 3,
+            "userID": 2,
+            "url": "www.google.com",
+            "title": "McDonald's At Center of Dark Web Conspiracy",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2017-05-05"
+        },
+        {
+            "id": 4,
+            "userID": 2,
+            "url": "www.google.com",
+            "title": "Bat Boy Lives!",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2018-04-05"
+        },
+        {
+            "id": 5,
+            "userID": 3,
+            "url": "www.google.com",
+            "title": "Sports Happened",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2018-05-15"
+        },
+        {
+            "id": 6,
+            "userID": 3,
+            "url": "www.google.com",
+            "title": "I Definitely Am Not Fake News",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2018-03-05"
+        },
+        {
+            "id": 7,
+            "userID": 3,
+            "url": "www.google.com",
+            "title": "Titans Unexpectedly Win Stanley Cup",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2018-17-02"
+        },
+        {
+            "id": 8,
+            "userID": 4,
+            "url": "www.google.com",
+            "title": "Google Knows Everything About You, Sean",
+            "synopsis": "Wants pawn term dare worsted ladle gull hoe lift wetter murder inner ladle cordage honor itch offer lodge, dock, florist. Disk ladle gull orphan worry putty ladle rat cluck wetter ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.",
+            "timestamp": "2018-05-13"
+        },
+        {
+            "id": 9,
+            "userID": 5,
+            "url": "www.google.com",
+            "title": "This Headline is Longer Than The Article",
+            "synopsis": "Wants pawn term.",
+            "timestamp": "2018-01-05"
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "userID": 1,
+            "taskName": "Build API manager",
+            "dueDate": "2018-05-15"
+        },
+        {
+            "id": 2,
+            "userID": 1,
+            "taskName": "Herd cats",
+            "dueDate": "2018-05-15"
+        },
+        {
+            "id": 3,
+            "userID": 2,
+            "taskName": "Slay vampires",
+            "dueDate": "2018-05-13"
+        },
+        {
+            "id": 4,
+            "userID": 3,
+            "taskName": "Make a bunch of fake data",
+            "dueDate": "2018-05-15"
+        },
+        {
+            "id": 5,
+            "userID": 4,
+            "taskName": "Climb stuff or run or something?",
+            "dueDate": "2018-03-14"
+        },
+        {
+            "id": 6,
+            "userID": 5,
+            "taskName": "Stop breaking the internet",
+            "dueDate": "2018-05-14"
+        }
+    ],
+    "friends": [
+        {
+            "id": 1,
+            "userID": 1,
+            "friendID": 2
+        },
+        {
+            "id": 2,
+            "userID": 1,
+            "friendID": 3
+        },
+        {
+            "id": 3,
+            "userID": 1,
+            "friendID": 4
+        },
+        {
+            "id": 4,
+            "userID": 1,
+            "friendID": 5
+        },
+        {
+            "id": 5,
+            "userID": 2,
+            "friendID": 1
+        },
+        {
+            "id": 6,
+            "userID": 2,
+            "friendID": 3
+        },
+        {
+            "id": 7,
+            "userID": 2,
+            "friendID": 4
+        },
+        {
+            "id": 8,
+            "userID": 3,
+            "friendID": 2
+        },
+        {
+            "id": 9,
+            "userID": 3,
+            "friendID": 5
+        },
+        {
+            "id": 10,
+            "userID": 4,
+            "friendID": 5
+        },
+        {
+            "id": 11,
+            "userID": 4,
+            "friendID": 2
+        },
+        {
+            "id": 12,
+            "userID": 4,
+            "friendID": 1
+        },
+        {
+            "id": 13,
+            "userID": 5,
+            "friendID": 4
+        },
+        {
+            "id": 14,
+            "userID": 5,
+            "friendID": 1
+        },
+        {
+            "id": 15,
+            "userID": 5,
+            "friendID": 2
+        }
+    ],
+    "events": [
+        {
+            "id": 1,
+            "userID": 1,
+            "name": "Awesome Event",
+            "date": "2018-05-14",
+            "location": "Centennial Park"
+        },
+        {
+            "id": 2,
+            "userID": 2,
+            "name": "Slay vampires",
+            "date": "2018-06-14",
+            "location": "Big spooky building or a graveyard or something"
+        },
+        {
+            "id": 3,
+            "userID": 3,
+            "name": "Alien abduction",
+            "date": "2018-07-04",
+            "location": "Top of a building"
+        },
+        {
+            "id": 4,
+            "userID": 4,
+            "name": "Do stuff",
+            "date": "2018-05-24",
+            "location": "Nashville"
+        },
+        {
+            "id": 5,
+            "userID": 5,
+            "name": "Leave house",
+            "date": "2018-06-17",
+            "location": "House"
+        }
+    ]
+}
