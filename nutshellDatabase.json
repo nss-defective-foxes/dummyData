@@ -3,32 +3,32 @@
         {
             "id": 1,
             "username": "AnEvilHerbivore",
-            "email": "kathryn@nutshell.com",
-            "password":
+            "email": "katheryn@nutshell.com",
+            "password": ""
         },
         {
             "id": 2,
             "username": "CashewRose",
             "email": "cashew@nutshell.com",
-            "password":
+            "password": ""
         },
         {
             "id": 3,
             "username": "MrErin",
             "email": "erin@nutshell.com",
-            "password":
+            "password": ""
         },
         {
             "id": 4,
             "username": "sirwin4",
             "email": "sean@nutshell.com",
-            "password":
+            "password": ""
         },
         {
             "id": 5,
             "username": "wcdoster",
             "email": "cole@nutshell.com",
-            "password":
+            "password": ""
         }
     ],
     "messages": [
